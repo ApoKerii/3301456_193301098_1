@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591668431218",
+    "project_id": "pexelsapp-1cd75",
+    "storage_bucket": "pexelsapp-1cd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591668431218:android:8e3fce93359ad2980ef5eb",
+        "android_client_info": {
+          "package_name": "com.example.pexels_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591668431218-io60mgln8392s0v7glc1un8t43vrl0sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmvZJID8u9COiCg3BdVW9L0Qr9kOBq8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591668431218-io60mgln8392s0v7glc1un8t43vrl0sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
